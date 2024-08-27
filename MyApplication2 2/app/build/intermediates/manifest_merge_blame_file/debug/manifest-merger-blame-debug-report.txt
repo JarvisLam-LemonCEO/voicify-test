@@ -1,0 +1,279 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.research.activityinvoker"
+4    android:versionCode="8"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:5:5-77
+11-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:6:5-66
+12-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+13-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:7:5-76
+13-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:8:5-70
+14-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:8:22-68
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:9:5-80
+15-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:10:5-81
+16-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+17-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:11:5-12:39
+17-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:11:22-79
+18
+19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:25:5-79
+21-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:25:22-76
+22
+23    <application
+23-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:14:5-100:19
+24        android:allowBackup="true"
+24-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:16:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:hardwareAccelerated="false"
+28-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:22:9-44
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:18:9-43
+30        android:isAccessibilityTool="true"
+30-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:17:9-44
+31        android:label="@string/app_name"
+31-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:19:9-41
+32        android:largeHeap="true"
+32-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:23:9-33
+33        android:requestLegacyExternalStorage="true"
+33-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:15:9-52
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:20:9-54
+35        android:supportsRtl="true"
+35-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:21:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.ActivityInvoker"
+37-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:24:9-53
+38        android:usesCleartextTraffic="true" >
+38-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:25:9-44
+39        <activity
+39-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:27:9-40:20
+40            android:name="com.research.activityinvoker.ReadManifest"
+40-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:28:13-41
+41            android:exported="true"
+41-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:29:13-36
+42            android:label="@string/app_name"
+42-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:30:13-45
+43            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+43-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:31:13-69
+44            <intent-filter>
+44-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:32:13-36:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:33:17-69
+45-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:33:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:35:17-77
+47-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:35:27-74
+48            </intent-filter>
+49
+50            <meta-data
+50-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:37:13-39:53
+51                android:name="android.app.shortcuts"
+51-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:38:17-53
+52                android:resource="@xml/shortcuts" />
+52-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:39:17-50
+53        </activity>
+54        <activity
+54-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:41:9-46:20
+55            android:name="com.research.activityinvoker.ViewActivity.XmlViewerActivity"
+55-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:42:13-59
+56            android:exported="true"
+56-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:43:13-36
+57            android:label="@string/app_name"
+57-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:44:13-45
+58            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+58-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:45:13-69
+59        </activity>
+60        <activity
+60-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:47:9-52:20
+61            android:name="com.research.activityinvoker.ViewActivity.DeepLinkViewerActivity"
+61-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:48:13-64
+62            android:exported="true"
+62-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:49:13-36
+63            android:label="@string/app_name"
+63-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:50:13-45
+64            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+64-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:51:13-69
+65        </activity>
+66        <activity
+66-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:53:9-58:20
+67            android:name="com.research.activityinvoker.ViewActivity.IntentViewerActivity"
+67-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:54:13-62
+68            android:exported="true"
+68-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:55:13-36
+69            android:label="@string/app_name"
+69-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:56:13-45
+70            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+70-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:57:13-69
+71        </activity>
+72        <activity
+72-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:59:9-64:20
+73            android:name="com.research.activityinvoker.ActivityViewerActivity"
+73-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:60:13-51
+74            android:exported="true"
+74-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:61:13-36
+75            android:label="@string/app_name"
+75-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:62:13-45
+76            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+76-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:63:13-69
+77        </activity>
+78        <activity
+78-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:65:9-70:20
+79            android:name="com.research.activityinvoker.SettingsActivity"
+79-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:66:13-45
+80            android:exported="true"
+80-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:67:13-36
+81            android:label="@string/app_name"
+81-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:68:13-45
+82            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+82-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:69:13-69
+83        </activity>
+84        <activity
+84-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:71:9-76:20
+85            android:name="com.research.activityinvoker.ViewActivity.ActionChooserActivity"
+85-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:72:13-63
+86            android:exported="true"
+86-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:73:13-36
+87            android:label="@string/app_name"
+87-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:74:13-45
+88            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+88-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:75:13-69
+89        </activity>
+90        <activity
+90-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:77:9-83:20
+91            android:name="com.research.activityinvoker.LayoutInflatorActivity"
+91-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:78:13-51
+92            android:exported="true"
+92-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:79:13-36
+93            android:label="@string/app_name"
+93-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:80:13-45
+94            android:theme="@style/Theme.ActivityInvoker.NoActionBar" >
+94-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:81:13-69
+95        </activity>
+96
+97        <service android:name="com.research.activityinvoker.services.TTSService" />
+97-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:85:9-56
+97-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:85:18-53
+98        <service
+98-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:86:9-98:19
+99            android:name="com.research.activityinvoker.services.ActionFulfilment"
+99-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:87:13-54
+100            android:accessibilityFeedbackType="feedbackGeneric"
+100-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:89:13-64
+101            android:canRetrieveWindowContent="true"
+101-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:88:13-52
+102            android:exported="true"
+102-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:91:13-36
+103            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+103-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:90:13-79
+104            <intent-filter>
+104-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:92:13-94:29
+105                <action android:name="android.accessibilityservice.AccessibilityService" />
+105-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:93:17-92
+105-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:93:25-89
+106            </intent-filter>
+107
+108            <meta-data
+108-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:95:13-97:69
+109                android:name="android.accessibilityservice"
+109-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:96:17-60
+110                android:resource="@xml/global_action_bar_service" />
+110-->/Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:97:17-66
+111        </service>
+112        <service
+112-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:29:9-35:19
+113            android:name="com.google.firebase.components.ComponentDiscoveryService"
+113-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:30:13-84
+114            android:directBootAware="true"
+114-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+115            android:exported="false" >
+115-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:31:13-37
+116            <meta-data
+116-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:32:13-34:85
+117                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+117-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:33:17-109
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:34:17-82
+119            <meta-data
+119-->[com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:20:13-22:85
+120                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+120-->[com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:21:17-111
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:22:17-82
+122        </service>
+123
+124        <provider
+124-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+125            android:name="com.google.firebase.provider.FirebaseInitProvider"
+125-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+126            android:authorities="com.research.activityinvoker.firebaseinitprovider"
+126-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+127            android:directBootAware="true"
+127-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+128            android:exported="false"
+128-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+129            android:initOrder="100" />
+129-->[com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+130
+131        <activity
+131-->[com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+132            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+132-->[com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+134-->[com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+135
+136        <meta-data
+136-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+137            android:name="com.google.android.gms.version"
+137-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+138            android:value="@integer/google_play_services_version" />
+138-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+139
+140        <provider
+140-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+141            android:name="androidx.startup.InitializationProvider"
+141-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+142            android:authorities="com.research.activityinvoker.androidx-startup"
+142-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+143            android:exported="false" >
+143-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+144            <meta-data
+144-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+145                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+145-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+146                android:value="androidx.startup" />
+146-->[androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+147            <meta-data
+147-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+148                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+148-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+149                android:value="androidx.startup" />
+149-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+150        </provider>
+151    </application>
+152
+153</manifest>

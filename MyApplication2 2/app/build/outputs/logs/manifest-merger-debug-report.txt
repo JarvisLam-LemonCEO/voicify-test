@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+MERGED from [androidx.databinding:viewbinding:8.0.0] /Users/jarvislam/.gradle/caches/transforms-3/637200993ef4f3887f9eeaf37065fe8e/transformed/jetified-viewbinding-8.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/655f8690b680382cacdf6f2700be1dfc/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/7c38820edafbb6b71b776960abbca9d0/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/jarvislam/.gradle/caches/transforms-3/a84be8736c819d4963a2b00fd8e4eca4/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/8b27a8a82a1f1a83c74c13bcd5232057/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1343f8b53ebc1cdc5ca3368a3929b552/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.41.0] /Users/jarvislam/.gradle/caches/transforms-3/5b61f6d8606ce7327350f078f3fb6304/transformed/jetified-grpc-android-1.41.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/jarvislam/.gradle/caches/transforms-3/2f0a0c901b7040df49d91f23fa6b8b3b/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] /Users/jarvislam/.gradle/caches/transforms-3/d53d6f398dfc40cbac035e592d42a35f/transformed/jetified-firebase-appcheck-interop-16.0.0-beta04/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/edb2c63b01ac29d9424f5ff12c07a304/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/896e1efabc10bd19602e97d28853fb3d/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/416f390f5e19019d9a2d2c2e03e16a02/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jarvislam/.gradle/caches/transforms-3/2ed9c61c82d795ea50129d52324b4900/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1b533ed53c2e6c8bdef712e518eb1125/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/jarvislam/.gradle/caches/transforms-3/1aa611e891ae6740378fa1bdc03bec13/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/77b8c9688d2dce369b1cdc507c7929f9/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/2fa3511a7365193333409c53520c6d4a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/abd8b690cc6a664bdb83f5ded8dcd62f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/1fb7fec0955261a44c5f68bf59fe783a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/6b60817f68f72b4682e9d5a88062872d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/a4257e737059e59ed27ac30288fe5a96/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/69dcd3b1afd0ff21ff13dd181c7db00d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/jarvislam/.gradle/caches/transforms-3/59fac140fb61bbaf9153436a09ddcabb/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/6a230d5b9456c067331dc88ad4da8114/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/ca69c09eb95f40a44816eb093f14ab88/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/529ccadb872ab60c8032be0d5032e863/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/cf233808c3450e67c5c12407451386cd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/545802292db3d7714abbaf17b0ce3b4a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/0d46d35ac6d7c531322788d7b284ae52/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c88a05adcdba325fece1c031492d5db7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/d36ec5f3c49cf6a05b123068a61dbd5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/282af4dadb16c390db4dd536cec9e898/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/416e63e3bbf23f2847b196eec2d77366/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c32779e7f34630806a6cdc25ae9d2d9f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4a7fa8ddda3aed990495ec8d9b2bf64/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/b991ee2bc48d80a2899a169cd95c7b6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/93d28f8538367815162cbe021fb79610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jarvislam/.gradle/caches/transforms-3/5ad1f35c978a1ccecd25d7c876140318/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/bce3f71ac37b455538b16c75a0aeb53f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/9c347eb27d2904fd84bfe0bfc40799ca/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jarvislam/.gradle/caches/transforms-3/0712c9225e7d02436d8bfad414f0f318/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/3be0bed091c08397859ebc277d251f84/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/74482748a65d6f3cbbd60b0d07bf8b06/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/e92d41573d66bcc2ea3bbc83404ef767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/aedae9dbd092ed4ec69ad25c485e399b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/42574c3153c60d2f924c7d633c6b5325/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/22f9e6820457af8b607a8bc2813bff43/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:1-102:12
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:11:5-12:39
+	tools:ignore
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:12:9-37
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:11:22-79
+application
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:14:5-100:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/7c38820edafbb6b71b776960abbca9d0/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/7c38820edafbb6b71b776960abbca9d0/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/jarvislam/.gradle/caches/transforms-3/a84be8736c819d4963a2b00fd8e4eca4/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/jarvislam/.gradle/caches/transforms-3/a84be8736c819d4963a2b00fd8e4eca4/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/jarvislam/.gradle/caches/transforms-3/2f0a0c901b7040df49d91f23fa6b8b3b/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/jarvislam/.gradle/caches/transforms-3/2f0a0c901b7040df49d91f23fa6b8b3b/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] /Users/jarvislam/.gradle/caches/transforms-3/d53d6f398dfc40cbac035e592d42a35f/transformed/jetified-firebase-appcheck-interop-16.0.0-beta04/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] /Users/jarvislam/.gradle/caches/transforms-3/d53d6f398dfc40cbac035e592d42a35f/transformed/jetified-firebase-appcheck-interop-16.0.0-beta04/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/416f390f5e19019d9a2d2c2e03e16a02/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/416f390f5e19019d9a2d2c2e03e16a02/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/b991ee2bc48d80a2899a169cd95c7b6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/b991ee2bc48d80a2899a169cd95c7b6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:15:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:19:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:22:9-44
+	android:roundIcon
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:20:9-54
+	tools:targetApi
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:26:9-28
+	android:largeHeap
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:23:9-33
+	android:icon
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:16:9-35
+	android:isAccessibilityTool
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:17:9-44
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:24:9-53
+	android:usesCleartextTraffic
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:25:9-44
+activity#com.research.activityinvoker.ReadManifest
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:27:9-40:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:30:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:35:27-74
+meta-data#android.app.shortcuts
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:37:13-39:53
+	android:resource
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:39:17-50
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:38:17-53
+activity#com.research.activityinvoker.ViewActivity.XmlViewerActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:44:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:43:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:42:13-59
+activity#com.research.activityinvoker.ViewActivity.DeepLinkViewerActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:47:9-52:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:50:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:49:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:48:13-64
+activity#com.research.activityinvoker.ViewActivity.IntentViewerActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:53:9-58:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:56:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:55:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:57:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:54:13-62
+activity#com.research.activityinvoker.ActivityViewerActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:59:9-64:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:62:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:61:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:63:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:60:13-51
+activity#com.research.activityinvoker.SettingsActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:65:9-70:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:68:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:67:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:69:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:66:13-45
+activity#com.research.activityinvoker.ViewActivity.ActionChooserActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:71:9-76:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:74:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:73:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:75:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:72:13-63
+activity#com.research.activityinvoker.LayoutInflatorActivity
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:77:9-83:20
+	android:label
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:80:13-45
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:79:13-36
+	android:theme
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:78:13-51
+service#com.research.activityinvoker.services.TTSService
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:85:9-56
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:85:18-53
+service#com.research.activityinvoker.services.ActionFulfilment
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:86:9-98:19
+	android:canRetrieveWindowContent
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:88:13-52
+	android:accessibilityFeedbackType
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:89:13-64
+	android:exported
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:91:13-36
+	android:permission
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:90:13-79
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:87:13-54
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:92:13-94:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:93:17-92
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:93:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:95:13-97:69
+	android:resource
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:97:17-66
+	android:name
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml:96:17-60
+uses-sdk
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.0] /Users/jarvislam/.gradle/caches/transforms-3/637200993ef4f3887f9eeaf37065fe8e/transformed/jetified-viewbinding-8.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.0] /Users/jarvislam/.gradle/caches/transforms-3/637200993ef4f3887f9eeaf37065fe8e/transformed/jetified-viewbinding-8.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/655f8690b680382cacdf6f2700be1dfc/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/655f8690b680382cacdf6f2700be1dfc/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/7c38820edafbb6b71b776960abbca9d0/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/7c38820edafbb6b71b776960abbca9d0/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/jarvislam/.gradle/caches/transforms-3/a84be8736c819d4963a2b00fd8e4eca4/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/jarvislam/.gradle/caches/transforms-3/a84be8736c819d4963a2b00fd8e4eca4/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/8b27a8a82a1f1a83c74c13bcd5232057/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/8b27a8a82a1f1a83c74c13bcd5232057/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1343f8b53ebc1cdc5ca3368a3929b552/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1343f8b53ebc1cdc5ca3368a3929b552/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] /Users/jarvislam/.gradle/caches/transforms-3/5b61f6d8606ce7327350f078f3fb6304/transformed/jetified-grpc-android-1.41.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] /Users/jarvislam/.gradle/caches/transforms-3/5b61f6d8606ce7327350f078f3fb6304/transformed/jetified-grpc-android-1.41.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/jarvislam/.gradle/caches/transforms-3/2f0a0c901b7040df49d91f23fa6b8b3b/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/jarvislam/.gradle/caches/transforms-3/2f0a0c901b7040df49d91f23fa6b8b3b/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] /Users/jarvislam/.gradle/caches/transforms-3/d53d6f398dfc40cbac035e592d42a35f/transformed/jetified-firebase-appcheck-interop-16.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] /Users/jarvislam/.gradle/caches/transforms-3/d53d6f398dfc40cbac035e592d42a35f/transformed/jetified-firebase-appcheck-interop-16.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/edb2c63b01ac29d9424f5ff12c07a304/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/edb2c63b01ac29d9424f5ff12c07a304/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/896e1efabc10bd19602e97d28853fb3d/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/896e1efabc10bd19602e97d28853fb3d/transformed/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/416f390f5e19019d9a2d2c2e03e16a02/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/416f390f5e19019d9a2d2c2e03e16a02/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jarvislam/.gradle/caches/transforms-3/2ed9c61c82d795ea50129d52324b4900/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jarvislam/.gradle/caches/transforms-3/2ed9c61c82d795ea50129d52324b4900/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1b533ed53c2e6c8bdef712e518eb1125/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/1b533ed53c2e6c8bdef712e518eb1125/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/jarvislam/.gradle/caches/transforms-3/1aa611e891ae6740378fa1bdc03bec13/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/jarvislam/.gradle/caches/transforms-3/1aa611e891ae6740378fa1bdc03bec13/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/77b8c9688d2dce369b1cdc507c7929f9/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/jarvislam/.gradle/caches/transforms-3/77b8c9688d2dce369b1cdc507c7929f9/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/2fa3511a7365193333409c53520c6d4a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/2fa3511a7365193333409c53520c6d4a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/abd8b690cc6a664bdb83f5ded8dcd62f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/abd8b690cc6a664bdb83f5ded8dcd62f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/1fb7fec0955261a44c5f68bf59fe783a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/1fb7fec0955261a44c5f68bf59fe783a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/6b60817f68f72b4682e9d5a88062872d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/6b60817f68f72b4682e9d5a88062872d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/a4257e737059e59ed27ac30288fe5a96/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/a4257e737059e59ed27ac30288fe5a96/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/69dcd3b1afd0ff21ff13dd181c7db00d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/69dcd3b1afd0ff21ff13dd181c7db00d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/jarvislam/.gradle/caches/transforms-3/59fac140fb61bbaf9153436a09ddcabb/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/jarvislam/.gradle/caches/transforms-3/59fac140fb61bbaf9153436a09ddcabb/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/6a230d5b9456c067331dc88ad4da8114/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/6a230d5b9456c067331dc88ad4da8114/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/ca69c09eb95f40a44816eb093f14ab88/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/ca69c09eb95f40a44816eb093f14ab88/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/529ccadb872ab60c8032be0d5032e863/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/529ccadb872ab60c8032be0d5032e863/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/cf233808c3450e67c5c12407451386cd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/cf233808c3450e67c5c12407451386cd/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/545802292db3d7714abbaf17b0ce3b4a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/545802292db3d7714abbaf17b0ce3b4a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/0d46d35ac6d7c531322788d7b284ae52/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/jarvislam/.gradle/caches/transforms-3/0d46d35ac6d7c531322788d7b284ae52/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/jarvislam/.gradle/caches/transforms-3/1c08925e9b815d9972d736e5d356d01e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c88a05adcdba325fece1c031492d5db7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c88a05adcdba325fece1c031492d5db7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/d36ec5f3c49cf6a05b123068a61dbd5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/d36ec5f3c49cf6a05b123068a61dbd5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/282af4dadb16c390db4dd536cec9e898/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/282af4dadb16c390db4dd536cec9e898/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/416e63e3bbf23f2847b196eec2d77366/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/416e63e3bbf23f2847b196eec2d77366/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c32779e7f34630806a6cdc25ae9d2d9f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/c32779e7f34630806a6cdc25ae9d2d9f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4a7fa8ddda3aed990495ec8d9b2bf64/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4a7fa8ddda3aed990495ec8d9b2bf64/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/b991ee2bc48d80a2899a169cd95c7b6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jarvislam/.gradle/caches/transforms-3/b991ee2bc48d80a2899a169cd95c7b6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/93d28f8538367815162cbe021fb79610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/93d28f8538367815162cbe021fb79610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jarvislam/.gradle/caches/transforms-3/5ad1f35c978a1ccecd25d7c876140318/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jarvislam/.gradle/caches/transforms-3/5ad1f35c978a1ccecd25d7c876140318/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/bce3f71ac37b455538b16c75a0aeb53f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jarvislam/.gradle/caches/transforms-3/bce3f71ac37b455538b16c75a0aeb53f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/9c347eb27d2904fd84bfe0bfc40799ca/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/9c347eb27d2904fd84bfe0bfc40799ca/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jarvislam/.gradle/caches/transforms-3/0712c9225e7d02436d8bfad414f0f318/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jarvislam/.gradle/caches/transforms-3/0712c9225e7d02436d8bfad414f0f318/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/3be0bed091c08397859ebc277d251f84/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/3be0bed091c08397859ebc277d251f84/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/74482748a65d6f3cbbd60b0d07bf8b06/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/74482748a65d6f3cbbd60b0d07bf8b06/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/e92d41573d66bcc2ea3bbc83404ef767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/e92d41573d66bcc2ea3bbc83404ef767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/aedae9dbd092ed4ec69ad25c485e399b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/aedae9dbd092ed4ec69ad25c485e399b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/42574c3153c60d2f924c7d633c6b5325/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jarvislam/.gradle/caches/transforms-3/42574c3153c60d2f924c7d633c6b5325/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/22f9e6820457af8b607a8bc2813bff43/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/jarvislam/.gradle/caches/transforms-3/22f9e6820457af8b607a8bc2813bff43/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jarvislam/MyApplication2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] /Users/jarvislam/.gradle/caches/transforms-3/5b61f6d8606ce7327350f078f3fb6304/transformed/jetified-grpc-android-1.41.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] /Users/jarvislam/.gradle/caches/transforms-3/5b61f6d8606ce7327350f078f3fb6304/transformed/jetified-grpc-android-1.41.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] /Users/jarvislam/.gradle/caches/transforms-3/8673b09650bc71ae79fcfcbfb21a909e/transformed/jetified-firebase-database-20.0.3/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] /Users/jarvislam/.gradle/caches/transforms-3/b4cb869a48dbcd214a40fddffe71d956/transformed/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/jarvislam/.gradle/caches/transforms-3/fd4358fe9353a72271ee5bbce0987beb/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/jarvislam/.gradle/caches/transforms-3/e2d19fb26ab2d21110da3055e3e8c6be/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/jarvislam/.gradle/caches/transforms-3/9d5424745091cf902d3d4d01e711630d/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/bf5539bc05910bba30c5add69b3420ae/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/jarvislam/.gradle/caches/transforms-3/53e558a1eba7ca34c7469f52e831c016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/jarvislam/.gradle/caches/transforms-3/c1f78f334fe25793671c9d4ae498746b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

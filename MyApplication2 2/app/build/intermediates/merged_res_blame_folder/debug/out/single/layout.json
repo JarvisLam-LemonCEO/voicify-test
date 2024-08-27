@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/listitem.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/listitem.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/activity_setting.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/manifest_main.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/manifest_main.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/inflater.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/inflater.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/deeplinkviewer_layout.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/deeplinkviewer_layout.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/package_item.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/package_item.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/tooltip_number.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/tooltip_number.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/action_selection_layout.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/action_selection_layout.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/action_bar.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/action_bar.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/listgroup.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/listgroup.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-mergeDebugResources-30:/layout/xmlviewer.xml",
+        "source": "com.research.activityinvoker.app-main-33:/layout/xmlviewer.xml"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable_circular_textview.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable/circular_textview.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable_start_btn.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable/start_btn.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_package_item.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/package_item.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_deeplinkviewer_layout.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/deeplinkviewer_layout.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/menu_menu_main.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_tooltip_number.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/tooltip_number.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_action_selection_layout.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/action_selection_layout.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_inflater.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/inflater.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_listgroup.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/listgroup.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/xml_global_action_bar_service.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/xml/global_action_bar_service.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_listitem.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/listitem.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/navigation_nav_graph.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable_stop_btn.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable/stop_btn.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_action_bar.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/action_bar.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_activity_setting.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_manifest_main.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/manifest_main.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable_tooltip_shape.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable/tooltip_shape.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/xml_shortcuts.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/layout_xmlviewer.xml.flat",
+        "source": "com.research.activityinvoker.app-main-33:/layout/xmlviewer.xml"
+    },
+    {
+        "merged": "com.research.activityinvoker.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.research.activityinvoker.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
